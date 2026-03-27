@@ -1,20 +1,18 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+name: 機能追加（仕様）
+about: AIに実装させるための新機能の仕様を定義します
+title: "[Feature]: "
+labels: enhancement
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 概要
+（追加する機能の目的と概要を記述してください）
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 要件・仕様
+（入力データ、期待される出力、画面の挙動などを具体的に記述してください）
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 制約事項
+（使用するライブラリの制限やパフォーマンス要件などがあれば記述してください）
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 受け入れ条件
+（どのようなテストを通れば実装完了とするかを箇条書きで記述してください）
